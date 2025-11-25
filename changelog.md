@@ -8,3 +8,7 @@ B_Nina:
 5) dodala datoteko kontakt.html
 6) naredila pull request in se označila kot Assignee
 7) zapisala vse spremembe v changelog.md
+
+C_Alex:
+ustvaril in dodal datoteko testni_scenarij.md
+dodal svoj kontakt v kontakt.html
