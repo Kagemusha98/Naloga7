@@ -6,8 +6,8 @@
 3. Uporabnik ponastavi geslo (po potrebi)
 
 **Rezultat:**
-- * Uporabnik se uspešno registrira. *
-- * Po registraciji se lahko prijavi v sistem. *
+- *Uporabnik se uspešno registrira.*
+- *Po registraciji se lahko prijavi v sistem.*
 
 ---------------------------------------------------------
 
@@ -17,8 +17,8 @@
 2. Uporabnik spremeni profilno sliko
 3. 
 **Rezultat:**
-- * Spremembe profila se uspešno shranijo. *
-- * Aplikacija prikaže posodobljene podatke. *
+- *Spremembe profila se uspešno shranijo.*
+- *Aplikacija prikaže posodobljene podatke.*
  
 ---------------------------------------------------------
     
@@ -29,8 +29,9 @@
 4. Administrator pregleda seznam vseh elementov.
 
 **Rezultat:**
-- * Nov element je uspešno dodan. *
-- * Urejeni element se pravilno posodobi. *
-- * Izbrisan element izgine iz seznama. *
-- * Seznam pravilno prikazuje vse obstoječe elemente. *
+- *Nov element je uspešno dodan.*
+- *Urejeni element se pravilno posodobi.*
+- *Izbrisan element izgine iz seznama.*
+- *Seznam pravilno prikazuje vse obstoječe elemente.*
+
 
